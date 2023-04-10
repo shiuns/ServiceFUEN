@@ -38,3 +38,6 @@
 (別人的文章只能刪除自己的留言)
 
 ![](https://github.com/shiuns/ServiceFUEN/blob/master/ServiceFUEN/wwwroot/104/刪除留言.jpg)
+
+
+感謝觀看!
